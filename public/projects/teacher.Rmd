@@ -1,0 +1,9 @@
+---
+aliases:
+- about-me
+- contact
+author: Adam Rawles
+date: "2020-08-28"
+description: teacheR, a book about teaching R
+title: teacheR
+---
